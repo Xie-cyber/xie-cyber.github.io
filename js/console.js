@@ -46,7 +46,7 @@ function createtime1() {
         "小站已经苟活",
         dnum,
         "天啦!",
-        "©2022 By Fomalhaut",
+        "©2023 By 谢子任",
     ];
 
     setTimeout(
@@ -67,7 +67,7 @@ function createtime1() {
 createtime1();
 
 function createtime2() {
-    var ascll2 = [`NCC2-036`, `作者`, `谢子任`, `1893-1999`];
+    var ascll2 = [`NCC2-036`, `1893-1999`];
 
     setTimeout(
         console.log.bind(
