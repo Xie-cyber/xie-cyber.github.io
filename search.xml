@@ -8,7 +8,7 @@
       <link href="/2023/02/14/Unity3DRPG02/"/>
       <url>/2023/02/14/Unity3DRPG02/</url>
       
-        <content type="html"><![CDATA[<h1 id="1-PolyBrush-发挥创意构建场景"><a href="#1-PolyBrush-发挥创意构建场景" class="headerlink" title="1. PolyBrush 发挥创意构建场景"></a>1. PolyBrush 发挥创意构建场景</h1><h2 id="1-1-使用-Poly-Brush来构建-low-poly的terrain场景"><a href="#1-1-使用-Poly-Brush来构建-low-poly的terrain场景" class="headerlink" title="1.1 使用 Poly Brush来构建 low poly的terrain场景"></a>1.1 使用 Poly Brush来构建 low poly的terrain场景</h2><p>在 window → package manager 中找到 polybrush 进行安装</p><p>安装好后展开 samples，导入有 universal RP 的 shader examples</p><p>新建文件夹 Addons 将 Ploybrush 这些 package 插件装进去</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-PolyBrush-发挥创意构建场景"><a href="#1-PolyBrush-发挥创意构建场景" class="headerlink" title="1. PolyBrush 发挥创意构建场景"></a>1. PolyBrush 发挥创意构建场景</h1><h2 id="1-1-使用-Poly-Brush来构建-low-poly的terrain场景"><a href="#1-1-使用-Poly-Brush来构建-low-poly的terrain场景" class="headerlink" title="1.1 使用 Poly Brush来构建 low poly的terrain场景"></a>1.1 使用 Poly Brush来构建 low poly的terrain场景</h2><p>在 window → package manager 中找到 polybrush 进行安装</p><p>安装好后展开 samples，导入有 universal RP 的 shader examples</p><p>新建文件夹 Addons 将 Ploybrush 这些 package 插件装进去</p><p>菜单栏 Tools → polybrush → polybrush window</p><p>polybrush 上有五个菜单</p><ol><li>用来调整地面的高矮</li><li>用于柔化</li><li>将当前物体刷上不同的颜色</li><li>将预制体刷到场景当中</li><li>将 Taxtrue 刷到场景当中</li></ol><p>选中 1 后可以看到 low poly 的图形低模的顶点，呈现三角形状，可以通过按住左键拖拽向上凸起，按住 ctrl 再按住左键向下凹陷</p>]]></content>
       
       
       <categories>
