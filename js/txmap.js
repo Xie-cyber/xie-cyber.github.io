@@ -147,7 +147,7 @@ function showWelcome() {
                     posdesc = "74751，长沙斯塔克";
                     break;
                 case "广东省":
-                    posdesc = "老板来,两斤福建人";
+                    posdesc = "老板,来两斤福建人";
                     break;
                 case "广西壮族自治区":
                     posdesc = "桂林山水甲天下";
